@@ -14,7 +14,7 @@ Add to your `Gemfile`:
 `Gemfile`에 다음의 코드를 넣어주세요.
 
 ```ruby
-gem 'omniauth2-kakao'
+gem 'omniauth-kakao2', github: 'luciuschoi/omniauth-kakao2'
 ```
 
 Then `bundle install`.
